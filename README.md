@@ -53,20 +53,7 @@ Socials:
 <br/>
 <p align="center">
   <a href="https://leetcode.com/Kushagra614/"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" alt="Linkedin Logo" width="32"></a>&nbsp;&nbsp;&nbsp;
-name: generate animation
 
-on:
-  # run automatically every 24 hours
-  schedule:
-    - cron: "0 */12 * * *" 
-  
-  # allows to manually run the job at any time
-  workflow_dispatch:
-  
-  # run on every push on the main branch
-  push:
-    branches:
-    - main
-    </p>
+</p>
   
 
