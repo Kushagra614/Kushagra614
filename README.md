@@ -14,11 +14,10 @@
 <div align="center">
 	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code>
 	<code><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-github-2690381-2232884.png?f=webp&w=256" alt="GitHub" title="GitHub"/></code>
-  <code><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-c-4-226082.png?f=webp&w=256" alt="C++" title="C++"/></code>
-	<code><img width="45" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
-  <code><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-c-57-1175191.png?f=webp&w=256" alt="C" title="C"/></code>
-	<code><img width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML5"/></code>
-	<code><img width="50" src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg" alt="photoshop" title="Photoshop"/></code>
+ 	<code><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-c-57-1175191.png?f=webp&w=256" alt="C" title="C"/></code>
+ 	 <code><img width="45" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+ 	<code><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-c-4-226082.png?f=webp&w=256" alt="C++" title="C++"/></code>
+ 	 <code><img width="50" src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/photoshop.svg" alt="photoshop" title="Photoshop"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" title="Python"/></code>
 	<code><img width="50" src="https://cdn.iconscout.com/icon/free/png-512/free-adobe-lightroom-cc-1855024-1571405.png?f=webp&w=256" alt="Lightroom" title="Lightroom"/></code>
 	</div>
