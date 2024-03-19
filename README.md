@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi, I'm Kushagra Vardhan</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1D9BF7&random=false&width=435&lines=I+code+sometimes.;Learn%2C+Push%2C+Repeat" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1D9BF7&random=false&width=435&lines=eat(),+sleep(),+code(),+repeat().;CODEZZZZZ....%2C" alt="Typing SVG" /></a>
 <img align="center" alt="Coding" width="100%" height ="500"  style="border-radius: 10px;" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif">
 
 
