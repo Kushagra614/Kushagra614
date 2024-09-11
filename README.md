@@ -60,8 +60,8 @@
 <!-- GitHub Stats and Streak -->
 <!-- GitHub Stats and Streak -->
 <div>
-    <img width="500"src="https://github-readme-streak-stats.herokuapp.com/?user=Kushagra614&theme=radical&hide_border=true&background=000000&stroke=007BFF&currStreakNum=FF5733&sideNums=FF5733&currStreakLabel=FF5733&sideLabels=FF5733" alt="Kushagra Github Streak Stats">
-    <img width="495" src="https://github-readme-stats.vercel.app/api?username=Kushagra614&count_private=true&theme=radical&hide_border=true&bg_color=000000&title_color=007BFF&text_color=C4C4C4&icon_color=007BFF" alt="Kushagra Github Stats">
+    <img width="400"src="https://github-readme-streak-stats.herokuapp.com/?user=Kushagra614&theme=radical&hide_border=true&background=000000&stroke=007BFF&currStreakNum=FF5733&sideNums=FF5733&currStreakLabel=FF5733&sideLabels=FF5733" alt="Kushagra Github Streak Stats">
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Kushagra614&count_private=true&theme=radical&hide_border=true&bg_color=000000&title_color=007BFF&text_color=C4C4C4&icon_color=007BFF" alt="Kushagra Github Stats">
 </div>
 </br>
 </br>
