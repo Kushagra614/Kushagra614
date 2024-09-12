@@ -58,12 +58,15 @@
 
 
 <!-- GitHub Stats and Streak -->
-<p align='center'>
-  <img width="450px" style="border-style:solid; border-width:4px; border-color:000000;" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushagra614&background=000000&border=000000&stroke=8A2BE2&ring=8A2BE2&fire=FF5733&currStreakNum=8A2BE2&sideNums=8A2BE2&currStreakLabel=8A2BE2&sideLabels=8A2BE2&dates=FDFEFF" alt="Kushagra614 Github Stats" />
-</p>
-<p align='center'>
-  <img width="450px" style="border-style:solid; border-width:4px; border-color:000000;" src="https://github-readme-stats.vercel.app/api?username=Kushagra614&count_private=true&bg_color=000000&title_color=8A2BE2&text_color=FDFEFF&icon_color=FF5733&border_color=000000&hide_border=true"/>
-</p>
+<div style="display: flex; justify-content: space-between;">
+  <div>
+    <img width="450px" style="border-style:solid; border-width:4px; border-color:#000000;" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushagra614&background=000000&border=000000&stroke=8A2BE2&ring=8A2BE2&fire=FF5733&currStreakNum=8A2BE2&sideNums=8A2BE2&currStreakLabel=8A2BE2&sideLabels=8A2BE2&dates=FDFEFF" alt="Kushagra614 Github Stats" />
+  </div>
+  <div>
+    <img width="450px" style="border-style:solid; border-width:4px; border-color:#000000;" src="https://github-readme-stats.vercel.app/api?username=Kushagra614&count_private=true&bg_color=000000&title_color=8A2BE2&text_color=FDFEFF&icon_color=FF5733&border_color=000000&hide_border=true"/>
+  </div>
+</div>
+
   
 <!-- Contribution Graph -->
 <p align='center'>
