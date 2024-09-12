@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kushagra Vardhan</h1>
 
 <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=ED2100&random=false&width=435&lines=eat(),+sleep(),+code(),+repeat().;CODEZZZZZ....%2C" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8A2BE2&random=false&width=435&lines=eat(),+sleep(),+code(),+repeat().;CODEZZZZZ....%2C" alt="Typing SVG" />
 </a>
 
 - 🌱 _Currently exploring_ **C++ Low-Latency Development** .<br>
@@ -56,22 +56,28 @@
 </br>
 </br>
 
-<!-- GitHub Stats and Streak -->
-<!-- GitHub Stats and Streak -->
-<!-- GitHub Stats and Streak -->
-<div>
-    <img width="400"src="https://github-readme-streak-stats.herokuapp.com/?user=Kushagra614&theme=radical&hide_border=true&background=000000&stroke=007BFF&currStreakNum=FF5733&sideNums=FF5733&currStreakLabel=FF5733&sideLabels=FF5733" alt="Kushagra Github Streak Stats">
-    <img width="400" src="https://github-readme-stats.vercel.app/api?username=Kushagra614&count_private=true&theme=radical&hide_border=true&bg_color=000000&title_color=007BFF&text_color=C4C4C4&icon_color=007BFF" alt="Kushagra Github Stats">
-</div>
-</br>
-</br>
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushagra614&bg_color=000000&color=C4C4C4&line=007BFF&point=FF5733&area=true&hide_border=true" alt="contribution-graph" width="100%" />
 
-<!-- Contribution History -->
-<p align="center" style="width:100%; background-color: #101820; padding: 10px; border-radius: 8px; border: 2px solid #007BFF;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kushagra614&theme=radical" alt="Profile Details" style="border-radius: 8px; border: 1px solid #007BFF;" />
+<!-- GitHub Stats and Streak -->
+<p align='center'>
+  <img width="450px" style="border-style:solid; border-width:4px; border-color:000000;" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushagra614&background=000000&border=000000&stroke=8A2BE2&ring=8A2BE2&fire=FF5733&currStreakNum=8A2BE2&sideNums=8A2BE2&currStreakLabel=8A2BE2&sideLabels=8A2BE2&dates=FDFEFF" alt="Kushagra614 Github Stats" />
 </p>
+<p align='center'>
+  <img width="450px" style="border-style:solid; border-width:4px; border-color:000000;" src="https://github-readme-stats.vercel.app/api?username=Kushagra614&count_private=true&bg_color=000000&title_color=8A2BE2&text_color=FDFEFF&icon_color=FF5733&border_color=000000&hide_border=true"/>
+</p>
+  
+<!-- Contribution Graph -->
+<p align='center'>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushagra614&bg_color=000000&color=8A2BE2&line=8A2BE2&point=FF5733&area=true&hide_border=true" alt="contribution-graph" width="100%" />
+</p>
+
+<!-- Contribution History 
+<div style="background-color: #000000; padding: 20px; border-radius: 10px; border: 2px solid BlueViolet; width: 100%; box-sizing: border-box;">
+  <p align="center" style="margin: 0;">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kushagra614&theme=solid" alt="Profile Details" style="border-radius: 8px; border: 1px solid BlueViolet; max-width: 100%; height: auto;" />
+  </p>
+</div>
+-->
+
 
 
 
