@@ -10,7 +10,7 @@
 
 - 👀 _Also working on_ **Computer Vision** _and_ **Real-Time Object Detection** _using C++_.<br>
 
-- ⚙️ Building a _Algo Trading Bot_ in C++.<br> 
+- ⚙️ _Building a_ **Algo Trading Bot** in C++.<br> 
 
 - 🧩 _Hooked on_ **LeetCode** <a href="https://leetcode.com/u/Kushagra614/" target="_blank">Kushagra614</a><br>
 
