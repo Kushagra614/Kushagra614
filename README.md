@@ -10,7 +10,7 @@
 
 - 👀 _Also working on_ **Computer Vision** _and_ **Real-Time Object Detection** _using C++_.<br>
 
-- ⚙️ _Building a Full-Stack Webapp called_ **Student Manager**, _aimed at improving educational workflows_.<br>
+<!-- - ⚙️ _Building a Full-Stack Webapp called_ **Student Manager**, _aimed at improving educational workflows_.<br> -->
 
 - 🧩 _Hooked on_ **LeetCode** <a href="https://leetcode.com/u/Kushagra614/" target="_blank">Kushagra614</a><br>
 
