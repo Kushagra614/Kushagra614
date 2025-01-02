@@ -8,9 +8,9 @@
 
 - 🤝 _Passionate about_ **Algorithmic Trading** _and_ **High-Frequency Trading (HFT)**.<br>
 
-- 👀 _Also working on_ **Computer Vision** _and_ **Real-Time Object Detection** _using C++_.<br>
-
 - ⚙️ _Building a_ **Algo Trading Bot** in C++.<br> 
+
+- 👀 _Also working on_ **Computer Vision** _and_ **Real-Time Object Detection** _using C++_.<br>
 
 - 🧩 _Hooked on_ **LeetCode** <a href="https://leetcode.com/u/Kushagra614/" target="_blank">Kushagra614</a><br>
 
