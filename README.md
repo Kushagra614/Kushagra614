@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8A2BE2&random=false&width=435&lines=eat(),+sleep(),+code(),+repeat().;CODEZZZZZ....%2C" alt="Typing SVG" />
 </a>
 
-- 🔧 **Low Latency C++ Developer** _building_ **Trading Systems** <br>
+- ⚡ **Low Latency C++ Developer** _building_ **Trading Systems** <br>
 
 - 📈 _Focused on_ **Algorithmic Trading** _and_ **HFTs** <br>
 
@@ -14,7 +14,7 @@
 
 - 📫 _Reach me at_ **kushagravardhan619@gmail.com** _for collaborations or inquiries._ <br>
 
-- ⚡ _Diving into_ **Finance** _and_ **Tech** _to create innovative **trading systems.** <br>
+- 💲 _Diving into_ **Finance** _and_ **Tech** _to create innovative_ **trading systems.** <br>
 
 
 
