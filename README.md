@@ -1,4 +1,26 @@
-<h1 align="center">Hi, I'm Kushagra Vardhan</h1>
+<h1 align="center" style="font-size: 3.5em; color: #0077b6; text-shadow: 2px 2px 4px rgba(0,0,0,0.2);">Hi, I'm <span style="color: #f1faee; background: linear-gradient(45deg, #0077b6, #00b4d8);">Kushagra Vardhan</span></h1>
+
+<h2 align="center" style="font-size: 2.2em; font-weight: bold; color: #90e0ef; margin: 20px 0;">
+    <span style="font-style: italic;"><i>"I write code that moves faster than the stock market."<i> 🚀</span>
+</h2>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/C%2B%2B-Low%20Latency%20Developer-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
+</div>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/Focus-High%20Frequency%20Trading-red?style=flat-square&logo=lightning" alt="HFT Badge"/>
+    <img src="https://img.shields.io/badge/Speed-Microseconds%20Matter-blue?style=flat-square&logo=flash" alt="Speed Badge"/>
+    <img src="https://img.shields.io/badge/Trading-Algorithmic-green?style=flat-square&logo=chart" alt="Trading Badge"/>
+</p>
+
+<p align="center" style="font-size: 1.2em; color: #caf0f8; max-width: 800px; margin: 20px auto; padding: 20px;">
+    <i>I'm a passionate <strong> C++ developer </strong> focused on <strong>Low-latency Systems</strong> and <strong>High-Frequency Trading (HFT). </strong> I specialize in optimizing code to make it as fast as possible, handling market data at lightning speeds, and making the most out of every <strong> nanosecond.</strong></i>
+</p>
+
+<div align="center">
+    <img src="https://img.shields.io/badge/⚡%20Performance%20Obsessed%20⚡-black?style=for-the-badge" alt="Performance Badge"/>
+</div>
 
 <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8A2BE2&random=false&width=435&lines=eat(),+sleep(),+code(),+repeat().;CODEZZZZZ....%2C" alt="Typing SVG" />
