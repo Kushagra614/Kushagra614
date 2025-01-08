@@ -14,7 +14,7 @@
 
 - 📫 _Reach me at_ **kushagravardhan619@gmail.com** _for collaborations or inquiries._ <br>
 
-- ⚡ _Diving into_ **Finance** _and_ **Tech** _to create innovative trading systems._ <br>
+- ⚡ _Diving into_ **Finance** _and_ **Tech** _to create innovative **trading systems.** <br>
 
 
 
