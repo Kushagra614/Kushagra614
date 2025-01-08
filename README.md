@@ -10,7 +10,7 @@
 
 - 🚀 _Building_ **HyperTradeX** <br>
 
-- 🧩 _Hooked on LeetCode_ <a href="https://leetcode.com/u/Kushagra614/" target="_blank">Kushagra614</a><br>
+- 🧩 _Hooked on_ **LeetCode** <a href="https://leetcode.com/u/Kushagra614/" target="_blank">Kushagra614</a><br>
 
 - 📫 _Reach me at_ **kushagravardhan619@gmail.com** _for collaborations or inquiries._ <br>
 
