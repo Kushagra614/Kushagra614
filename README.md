@@ -4,19 +4,19 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8A2BE2&random=false&width=435&lines=eat(),+sleep(),+code(),+repeat().;CODEZZZZZ....%2C" alt="Typing SVG" />
 </a>
 
-- 🌱 _Currently exploring_ **C++ Low-Latency Development** .<br>
+- 🔧 **Low Latency C++ Developer** _building_ **Trading Systems** <br>
 
-- 🤝 _Passionate about_ **Algorithmic Trading** _and_ **High-Frequency Trading (HFT)**.<br>
+- 📈 _Focused on_ **Algorithmic Trading** _and_ **HFTs** <br>
 
-- ⚙️ _Building a_ **Algo Trading Bot** in C++.<br> 
+- 🚀 _Building_ **HyperTradeX** <br>
 
-- 👀 _Also working on_ **Computer Vision** _and_ **Real-Time Object Detection** _using C++_.<br>
+- 🧩 _Hooked on LeetCode_ <a href="https://leetcode.com/u/Kushagra614/" target="_blank">Kushagra614</a><br>
 
-- 🧩 _Hooked on_ **LeetCode** <a href="https://leetcode.com/u/Kushagra614/" target="_blank">Kushagra614</a><br>
+- 📫 _Reach me at_ **kushagravardhan619@gmail.com** _for collaborations or inquiries._ <br>
 
-- 📫 _Reach me at_ **kushagravardhan619@gmail.com** _for collaborations or inquiries_.<br>
+- ⚡ _Diving into_ **Finance** _and_ **Tech** _to create innovative trading systems._ <br>
 
-- ⚡ _Diving into_ **Finance** and **Tech** _to create innovative trading systems_.
+
 
 </br>
 </br>
