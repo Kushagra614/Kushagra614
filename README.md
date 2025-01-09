@@ -1,134 +1,122 @@
-<h1 align="center" style="font-size: 3.5em; color: #0077b6; text-shadow: 2px 2px 4px rgba(0,0,0,0.2);"><i>Hi, I'm <i><span style="color: #f1faee; background: linear-gradient(45deg, #0077b6, #00b4d8);">Kushagra Vardhan</span></h1>
+<div>
+    <h1 align="center" style="font-size: 3.5em; color: #0077b6; text-shadow: 2px 2px 4px rgba(0,0,0,0.2);">
+        <i>Hi, I'm <i><span style="color: #f1faee; background: linear-gradient(45deg, #0077b6, #00b4d8);">Kushagra Vardhan</span></h1>
+    <p align="center" style="font-size: 1.4em; color: #caf0f8; max-width: 800px; margin: 20px auto; padding: 20px;">
+        <i>I'm a passionate <strong> C++ developer </strong> focused on <strong>Low-latency Systems</strong> and <strong>High-Frequency Trading (HFT).</strong></i>
+    </p>
+    <p align="center" style="font-size: 1.5em; color: #ff6f61; text-transform: uppercase; font-weight: bold; letter-spacing: 2px; text-shadow: 3px 3px 6px rgba(0,0,0,0.4); margin-top: 30px;">
+        <i>🚀 Writing code that moves faster than the stock market 🚀 </i>
+    </p>
+</div>
 
-<h2 align="center" style="font-size: 2.2em; font-weight: bold; color: #90e0ef; margin: 20px 0;">
-    <span style="font-style: italic;"><i>"Writing code that moves faster than the stock market."<i> 🍷</span>
+</br>
+<div align="center" style="margin: 20px 0;">
+    <!-- C++ Badge -->
+    <img src="https://img.shields.io/badge/C++-CE2029?style=for-the-badge&logo=C%2B%2B&logoColor=white" 
+         alt="C++ Badge" height="34" />
+    <!-- Low Latency Developer Badge -->
+    <img src="https://img.shields.io/badge/Low%20Latency%20Developer-800080?style=for-the-badge" 
+         alt="Low Latency Developer Badge" height="34"/>
+</div>
+
+<div align="center" style="margin: 20px 0;">
+    <!-- High Frequency Trading (HFT) Badge with Olive color and different logo -->
+    <img src="https://img.shields.io/badge/HFT-%20High%20Frequency%20Trading-808000?style=for-the-badge&logo=rocket&logoColor=white" 
+         alt="HFT Badge" height="34"/>
+</div>
+
+
+
+
+
+
+
+</br>
+</br>
+
+
+- ⚡ **Low Latency C++ Developer** building *Trading Systems* <br>
+
+<!--- 📈 Focused on *Algorithmic Trading* and *HFTs* <br>-->
+
+- 🚀 Building **HyperTradeX** <br>
+
+- 🧩 Hooked on **LeetCode** <a href="https://leetcode.com/u/Kushagra614/" target="_blank">Kushagra614</a><br>
+
+- 📫 Reach me at **kushagravardhan619@gmail.com** for collaborations or inquiries. <br>
+
+- 💲 Diving into **Finance** and **Tech** to create innovative **trading systems.** <br>
+
+
+
+</br>
+</br>
+
+
+
+<h2 align="left" style="color: #00b4d8; border-bottom: 2px solid #00b4d8; padding-bottom: 10px;">
+    🛠️ Tech Stack
 </h2>
 
-<div align="center">
-    <img src="https://img.shields.io/badge/C%2B%2B-Low%20Latency%20Developer-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
-</div>
+<p align="center">
+    <!-- Core Technologies -->
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="35"/>
+    <img src="https://img.shields.io/badge/Boost-F7901E?style=for-the-badge&logo=boost&logoColor=white" alt="Boost" height="35"/>
+    <img src="https://img.shields.io/badge/Low_Latency-00ABB3?style=for-the-badge&logo=flash&logoColor=white" alt="Low Latency" height="35"/>
+    <img src="https://img.shields.io/badge/HFT-E31B29?style=for-the-badge&logo=lightning&logoColor=white" alt="HFT" height="35"/>
+    <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" height="35"/>
+    <img src="https://img.shields.io/badge/Make-A42E2B?style=for-the-badge&logo=gnu&logoColor=white" alt="Make" height="35"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="35"/>
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="35"/>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="35"/>
+    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" height="35"/>
+    <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" height="35"/>
+    <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" height="35"/>
+    <img src="https://img.shields.io/badge/Multithreading-00897B?style=for-the-badge&logo=parallel-computing&logoColor=white" alt="Multithreading" height="35"/>
+    <img src="https://img.shields.io/badge/Websockets-333333?style=for-the-badge&logo=websocket&logoColor=white" alt="Websockets" height="35"/>
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" alt="Java" height="35"/>
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="35"/>
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="35"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="35"/>
+    <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" height="35"/>
+
+</p>
+
+<!-- GitHub Stats with Custom Theme -->
+<h2 align="left" style="color: #00b4d8; border-bottom: 2px solid #00b4d8; padding-bottom: 10px; margin-top: 30px;">
+    📊 Performance Metrics
+</h2>
 
 <p align="center">
-    <img src="https://img.shields.io/badge/High%20Frequency%20Trading-red?style=flat-square&logo=lightning" alt="HFT Badge"/>
-    <img src="https://img.shields.io/badge/Microseconds%20Matter-blue?style=flat-square&logo=flash" alt="Speed Badge"/>
-    <img src="https://img.shields.io/badge/Algorithmic Trading-green?style=flat-square&logo=chart" alt="Trading Badge"/>
+    <img width="49%" style="border-radius: 10px; margin: 10px 0;" src="https://github-readme-stats.vercel.app/api?username=Kushagra614&show_icons=true&theme=react&bg_color=0D1117&hide_border=true&title_color=00b4d8&icon_color=00b4d8&text_color=ffffff"/>
+    <img width="49%" style="border-radius: 10px; margin: 10px 0;" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushagra614&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8"/>
 </p>
 
-<p align="center" style="font-size: 1.2em; color: #caf0f8; max-width: 800px; margin: 20px auto; padding: 20px;">
-    <i>I'm a passionate <strong> C++ developer </strong> focused on <strong>Low-latency Systems</strong> and <strong>High-Frequency Trading (HFT). </strong> I specialize in optimizing code to make it as fast as possible, handling market data at lightning speeds, and making the most out of every <strong> nanosecond.</strong></i>
-</p>
-
-<div align="center">
-    <img src="https://img.shields.io/badge/⚡%20Performance%20Obsessed%20⚡-black?style=for-the-badge" alt="Performance Badge"/>
-</div>
-
-<!--<a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=8A2BE2&random=false&width=435&lines=Writing code that moves faster than the stock market."%2C" alt="Typing SVG" />
-</a>-->
-
-- ⚡ **Low Latency C++ Developer** _building_ **Trading Systems** <br>
-
-- 📈 _Focused on_ **Algorithmic Trading** _and_ **HFTs** <br>
-
-- 🚀 _Building_ **HyperTradeX** <br>
-
-- 🧩 _Hooked on_ **LeetCode** <a href="https://leetcode.com/u/Kushagra614/" target="_blank">Kushagra614</a><br>
-
-- 📫 _Reach me at_ **kushagravardhan619@gmail.com** _for collaborations or inquiries._ <br>
-
-- 💲 _Diving into_ **Finance** _and_ **Tech** _to create innovative_ **trading systems.** <br>
-
-
-
-</br>
-</br>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"/>
-
-
-### 🧰 Languages and Tools
-
-</br>
-</br>
-
-<div style="display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 30px;">
-	‎ ‎ ‎ ‎ ‎ ‎ ‎ 
-    <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin: 10px;" />
-	‎ ‎ ‎ ‎ ‎ ‎
-    <img alt="GitHub" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/free-github-2690381-2232884.png?f=webp&w=256" style="margin: 10px;" />
-	‎ ‎ ‎ ‎ ‎ ‎
-    <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" style="margin: 10px;" />
-	‎ ‎ ‎ ‎ ‎ ‎
-    <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" style="margin: 10px;" />
-	‎ ‎ ‎ ‎ ‎ ‎
-    <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="margin: 10px;" />
-	‎ ‎ ‎ ‎ ‎ ‎
-    <img alt="C++" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="margin: 10px;" />
-	‎ ‎ ‎ ‎ ‎ ‎
-    <img alt="Python" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="margin: 10px;" />
-	‎ ‎ ‎ ‎ ‎
-    <img alt="Java" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="margin: 10px;" />
-</div>
-
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-
-<!-- GitHub Stats and Streak -->
-<p align="center">
-  <img width="450px" style="border-style:solid; border-width:4px; border-color:#000000;" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushagra614&background=000000&border=000000&stroke=8A2BE2&ring=8A2BE2&fire=FF5733&currStreakNum=8A2BE2&sideNums=8A2BE2&currStreakLabel=8A2BE2&sideLabels=8A2BE2&dates=FDFEFF" alt="Kushagra614 Github Stats"/>
-
-  <img width="450px" style="border-style:solid; border-width:4px; border-color:#000000; margin-left: 20px;" src="https://github-readme-stats.vercel.app/api?username=Kushagra614&count_private=true&bg_color=000000&title_color=8A2BE2&text_color=FDFEFF&icon_color=FF5733&border_color=000000&hide_border=true"/>
-</p>
-
-
-
-  
-<!-- Contribution Graph -->
 <p align='center'>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushagra614&bg_color=000000&color=8A2BE2&line=8A2BE2&point=FF5733&area=true&hide_border=true" alt="contribution-graph" width="100%" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushagra614&bg_color=0D1117&color=CE2029&line=CE2029&point=FFFFFF&hide_border=true" alt="Activity Graph" width="98%" style="border-radius: 10px;"/>
 </p>
 
-<!-- Contribution History 
-<div style="background-color: #000000; padding: 20px; border-radius: 10px; border: 2px solid BlueViolet; width: 100%; box-sizing: border-box;">
-  <p align="center" style="margin: 0;">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kushagra614&theme=solid" alt="Profile Details" style="border-radius: 8px; border: 1px solid BlueViolet; max-width: 100%; height: auto;" />
-  </p>
-</div>
--->
+<!-- Connect Section -->
+<h2 align="left" style="color: #00b4d8; border-bottom: 2px solid #00b4d8; padding-bottom: 10px; margin-top: 30px;">
+    🤝 Let's Connect
+</h2>
 
-
-
-
-
-
-
-</br>
-</br>
-
-<h3 align="center"><b>Socials:</b></h3>
 <p align="center">
     <a href="https://www.linkedin.com/in/kushagra-vardhan" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kushagra Vardhan LinkedIn" height="30" width="40" style="margin: 0 25px;" />
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
     </a>
-    
-<a href="https://leetcode.com/u/Kushagra614/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Kushagra Vardhan LeetCode" height="30" width="40" style="margin: 0 250px;" />
+    <a href="https://leetcode.com/u/Kushagra614/" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" height="35"/>
     </a>
-
-<a href="https://www.geeksforgeeks.org/user/kushagra614/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Kushagra Vardhan GeeksforGeeks" height="30" width="40" style="margin: 0 25px;" />
+    <a href="https://www.geeksforgeeks.org/user/kushagra614/" target="_blank">
+        <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" height="35"/>
     </a>
-
-<a href="https://discord.com/users/deathambush" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Kushagra Vardhan Discord" height="40" width="50" style="margin: 0 10px;" />
+    <a href="https://discord.com/users/deathambush" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" height="35"/>
     </a>
 </p>
 
-
-
+<!-- Footer -->
+<p align="center">
+    <img src="https://img.shields.io/badge/⚡%20Performance%20Obsessed%20⚡-black?style=for-the-badge" alt="Performance Badge"/>
+</p>
