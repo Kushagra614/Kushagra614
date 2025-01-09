@@ -35,7 +35,7 @@
 </br>
 
 
-- ⚡ **Low Latency C++ Developer** building *Trading Systems* <br>
+- ⚡ **Low Latency C++ Developer** building **Trading Systems** <br>
 
 <!--- 📈 Focused on *Algorithmic Trading* and *HFTs* <br>-->
 
