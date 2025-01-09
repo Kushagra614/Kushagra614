@@ -17,6 +17,9 @@
 
 </br>
 
+<img src="https://github.com/user-attachments/assets/2d72e414-3a3e-4445-b2af-62c07bd4b90d" width="500" height="300"/>
+
+
 - ⚡ **Low Latency C++ Developer** building **Trading Systems** <br>
 
 <!--- 📈 Focused on *Algorithmic Trading* and *HFTs* <br>-->
