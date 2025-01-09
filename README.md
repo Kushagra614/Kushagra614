@@ -17,8 +17,10 @@
 
 </br>
 
-<img src="https://github.com/user-attachments/assets/2d72e414-3a3e-4445-b2af-62c07bd4b90d" width="500" height="300"/>
+<img align="right" alt="Coding" width="500" src="https://github.com/user-attachments/assets/2d72e414-3a3e-4445-b2af-62c07bd4b90d">
 
+
+</br>
 
 - ⚡ **Low Latency C++ Developer** building **Trading Systems** <br>
 
@@ -33,11 +35,7 @@
 - 💲 Diving into **Finance** and **Tech** to create innovative **trading systems.** <br>
 
 
-
 </br>
-</br>
-
-
 
 <h2 align="left" style="color: #00b4d8; border-bottom: 2px solid #00b4d8; padding-bottom: 10px;">
     🛠️ Tech Stack
