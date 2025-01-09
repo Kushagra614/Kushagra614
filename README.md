@@ -10,30 +10,12 @@
 </div>
 
 </br>
-<div align="center" style="margin: 20px 0;">
-    <!-- C++ Badge -->
-    <img src="https://img.shields.io/badge/C++-CE2029?style=for-the-badge&logo=C%2B%2B&logoColor=white" 
-         alt="C++ Badge" height="34" />
-    <!-- Low Latency Developer Badge -->
-    <img src="https://img.shields.io/badge/Low%20Latency%20Developer-800080?style=for-the-badge" 
-         alt="Low Latency Developer Badge" height="34"/>
-</div>
 
-<div align="center" style="margin: 20px 0;">
-    <!-- High Frequency Trading (HFT) Badge with Olive color and different logo -->
-    <img src="https://img.shields.io/badge/HFT-%20High%20Frequency%20Trading-808000?style=for-the-badge&logo=rocket&logoColor=white" 
-         alt="HFT Badge" height="34"/>
-</div>
-
-
-
-
-
-
+<p align="center">
+    <img src="https://img.shields.io/badge/⚡%20Performance%20Obsessed%20⚡-black?style=for-the-badge" alt="Performance Badge" height = "38"/>
+</p>
 
 </br>
-</br>
-
 
 - ⚡ **Low Latency C++ Developer** building **Trading Systems** <br>
 
@@ -117,6 +99,4 @@
 </p>
 
 <!-- Footer -->
-<p align="center">
-    <img src="https://img.shields.io/badge/⚡%20Performance%20Obsessed%20⚡-black?style=for-the-badge" alt="Performance Badge"/>
-</p>
+
