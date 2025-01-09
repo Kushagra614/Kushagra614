@@ -17,7 +17,7 @@
 
 </br>
 
-<img align="right" alt="Coding" width="500" src="https://github.com/user-attachments/assets/2d72e414-3a3e-4445-b2af-62c07bd4b90d">
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/2d72e414-3a3e-4445-b2af-62c07bd4b90d">
 
 
 </br>
