@@ -43,25 +43,26 @@
 
 <p align="center">
     <!-- Core Technologies -->
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="35"/>
-    <img src="https://img.shields.io/badge/Boost-F7901E?style=for-the-badge&logo=boost&logoColor=white" alt="Boost" height="35"/>
-    <img src="https://img.shields.io/badge/Low_Latency-00ABB3?style=for-the-badge&logo=flash&logoColor=white" alt="Low Latency" height="35"/>
-    <img src="https://img.shields.io/badge/HFT-E31B29?style=for-the-badge&logo=lightning&logoColor=white" alt="HFT" height="35"/>
-    <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" height="35"/>
-    <img src="https://img.shields.io/badge/Make-A42E2B?style=for-the-badge&logo=gnu&logoColor=white" alt="Make" height="35"/>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="35"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="35"/>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="35"/>
-    <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" height="35"/>
-    <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" height="35"/>
-    <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" height="35"/>
-    <img src="https://img.shields.io/badge/Multithreading-00897B?style=for-the-badge&logo=parallel-computing&logoColor=white" alt="Multithreading" height="35"/>
-    <img src="https://img.shields.io/badge/Websockets-333333?style=for-the-badge&logo=websocket&logoColor=white" alt="Websockets" height="35"/>
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white" alt="Java" height="35"/>
-    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="35"/>
-    <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="35"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="35"/>
-    <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" height="35"/>
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="35"/>
+<img src="https://img.shields.io/badge/Boost-F7901E?style=for-the-badge&logo=boost&logoColor=white" alt="Boost" height="35"/>
+<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake" height="35"/>
+<img src="https://img.shields.io/badge/Make-A42E2B?style=for-the-badge&logo=gnu&logoColor=white" alt="Make" height="35"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" height="35"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" height="35"/>
+<img src="https://img.shields.io/badge/Multithreading-00897B?style=for-the-badge&logo=codechef&logoColor=white" alt="Multithreading" height="35"/>
+<img src="https://img.shields.io/badge/WebSocket-4479A1?style=for-the-badge&logo=socket.io&logoColor=white" alt="WebSocket" height="35"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" height="35"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" height="35"/>
+<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt" height="35"/>
+<img src="https://img.shields.io/badge/Low_Latency-00ABB3?style=for-the-badge&logo=rocket&logoColor=white" alt="Low Latency" height="35"/>
+<img src="https://img.shields.io/badge/HFT-E31B29?style=for-the-badge&logo=lightning&logoColor=white" alt="HFT" height="35"/>
+<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="REST APIs" height="35"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" height="35"/>
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="35"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="35"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="35"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="35"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision" height="35"/>
 
 </p>
 
