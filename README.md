@@ -15,12 +15,10 @@
     <img src="https://img.shields.io/badge/⚡%20Performance%20Obsessed%20⚡-black?style=for-the-badge" alt="Performance Badge" height = "38"/>
 </p>
 
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=kushagra614&label=Profile%20views&color=0e75b6&style=flat" alt="kushagra614" /> </p>-->
 </br>
 
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/2d72e414-3a3e-4445-b2af-62c07bd4b90d">
-
-
-</br>
 
 - ⚡ **Low Latency C++ Developer** building **Trading Systems** <br>
 
