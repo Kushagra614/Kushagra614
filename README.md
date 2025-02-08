@@ -4,9 +4,6 @@
     <p align="center" style="font-size: 1.4em; color: #caf0f8; max-width: 800px; margin: 20px auto; padding: 20px;">
         <i>I'm a passionate <strong> C++ developer </strong> focused on <strong>Low-latency Systems</strong> and <strong>High-Frequency Trading (HFT).</strong></i>
     </p>
-    <p align="center" style="font-size: 1.5em; color: #ff6f61; text-transform: uppercase; font-weight: bold; letter-spacing: 2px; text-shadow: 3px 3px 6px rgba(0,0,0,0.4); margin-top: 30px;">
-        <i>🚀 Writing code that moves faster than the stock market 🚀 </i>
-    </p>
 </div>
 
 </br>
@@ -24,7 +21,7 @@
 
 <!--- 📈 Focused on *Algorithmic Trading* and *HFTs* <br>-->
 
-- 🚀 Building **HyperTradeX** <br>
+- 🚀 Building **HyperTradeX** and **NetLyzer** <br>
 
 - 🧩 Hooked on **LeetCode** <a href="https://leetcode.com/u/Kushagra614/" target="_blank">Kushagra614</a><br>
 
