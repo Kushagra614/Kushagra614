@@ -21,7 +21,7 @@
 
 <!--- 📈 Focused on *Algorithmic Trading* and *HFTs* <br>-->
 
-- 🚀 Building **HyperTradeX** and **NetLyzer** <br>
+- 🚀 Building **HyperTradeX** <br>
 
 - 🧩 Hooked on **LeetCode** <a href="https://leetcode.com/u/Kushagra614/" target="_blank">Kushagra614</a><br>
 
