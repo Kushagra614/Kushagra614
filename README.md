@@ -82,9 +82,6 @@
     <a href="https://www.linkedin.com/in/kushagra-vardhan" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
     </a>
-    <a href="https://leetcode.com/u/Kushagra614/" target="_blank">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" height="35"/>
-    </a>
     <a href="https://www.geeksforgeeks.org/user/kushagra614/" target="_blank">
         <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" height="35"/>
     </a>
