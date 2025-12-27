@@ -23,8 +23,6 @@
 
 - 🚀 Building **HyperTradeX** <br>
 
-- 🧩 Hooked on **LeetCode** <a href="https://leetcode.com/u/Kushagra614/" target="_blank">Kushagra614</a><br>
-
 - 📫 Reach me at **kushagravardhan619@gmail.com** for collaborations or inquiries. <br>
 
 - 💲Diving into **Finance** and **Tech** to create innovative **trading systems.** <br>
