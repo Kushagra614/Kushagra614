@@ -69,9 +69,9 @@
     <img width="49%" style="border-radius: 10px; margin: 10px 0;" src="https://github-readme-streak-stats.herokuapp.com/?user=Kushagra614&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8"/>
 </p>
 
-<p align='center'>
+<!-- <p align='center'>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kushagra614&bg_color=0D1117&color=CE2029&line=CE2029&point=FFFFFF&hide_border=true" alt="Activity Graph" width="98%" style="border-radius: 10px;"/>
-</p>
+</p> -->
 
 <!-- Connect Section -->
 <h2 align="left" style="color: #00b4d8; border-bottom: 2px solid #00b4d8; padding-bottom: 10px; margin-top: 30px;">
